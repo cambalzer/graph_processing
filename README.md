@@ -2,6 +2,10 @@
 
 ### generate and compare graphs from multiple networks within the Correlates of War dataset
 
+Course project for NECSI Winter School modeling class: (https://necsi.edu/winter-school)
+
+Here's a [summary of the group project](https://docs.google.com/presentation/d/1XrEACjQyjzM-WBrBCBZB2Gt6x2YvJ5eeuoNuVJR7u7M/edit?usp=sharing) this was built for.
+
 Correlates of War website contains numerous data sets detailing various types of geo political relationships between countries for the last two centuries or so: geographic contiguity, trade, diplomatic relationships, armed conflict, etc. 
 
 Each data set is in effect an edgelist for a type of relationship in place for a given period. Some are directed graphs (exports from country a to country b). Others are undirected (physical contiguity between countries).
