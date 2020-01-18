@@ -19,7 +19,7 @@ INPUT
 - **attribute**: the name of the weighting attribute corresponding to each network
 - **value**: the attribute value for each dyad for the year. *can be used for weighting in future versions*
 
-see end of notebook for details on each network
+See data_in/README for details on sourced date / values each network
 
 
 ## operation
